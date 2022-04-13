@@ -4,9 +4,12 @@
 
 
 *skill *     
- BACKEND : SRPING 
- INFRA : DOCKER AWS K8S  
- DB : POSTGRE , MYSQL   
+ BACKEND : SRPING   
+ 
+ INFRA : DOCKER AWS K8S    
+ 
+ DB : POSTGRE , MYSQL     
+ 
  
 
 
