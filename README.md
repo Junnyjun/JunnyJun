@@ -1,9 +1,8 @@
 
-*skill *   
- *Goal : everyday 1 commit!*     
-   
- SPRING, SRPING BOOT  
- JPA, VUE 를 즐겨씁니다..!  
+*skill *     
+ BACKEND : SRPING (  
+ INFRA : DOCKER AWS K8S
+ DB : POSTGRE , MYSQL 
    
  개발도 좋지만 인프라에도 관심이 많다!  
  
