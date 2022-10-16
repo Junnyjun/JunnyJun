@@ -7,13 +7,3 @@
  
  DB : POSTGRE , MYSQL     
 ```
-
-
-
- 
- 
-
-
-
-
-
