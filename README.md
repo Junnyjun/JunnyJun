@@ -5,3 +5,5 @@
  
  DB : POSTGRE , MYSQL     
 ```
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junnyjun&show_icons=true&theme=react)
+<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oiNeh&repo=good-price-good-product) -->
