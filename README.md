@@ -4,5 +4,5 @@
  INFRA : DOCKER AWS K8S JENKINs
  
  
- DB : POSTGRE , MYSQL     
+ DB : POSTGRE , MYSQL  , Mongo , Redis ...   
 ```
