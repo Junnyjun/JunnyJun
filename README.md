@@ -1,4 +1,1 @@
-```
- LANG : java kotlin
- BACKEND : spring
-```
+Junnyland CEO
