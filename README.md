@@ -1,2 +1,2 @@
-LangJAVA/Kotlin/GO
-Framework Spring/GIN
+Lang: JAVA/Kotlin/GO  
+Framework:  Spring/GIN  
